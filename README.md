@@ -37,7 +37,8 @@ Credits
 
 content:
 
-Footer where taken from the Love running project.
+Footer where taken from the Love running project. Welcome class in CSS were also taken from Love Running Project
+
 secmig class in css and a few other img classes were also inspiered by examples on https://www.w3schools.com/
 
 media:
