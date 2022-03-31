@@ -1,0 +1,110 @@
+.menuItem{
+    margin-right:10%;
+}
+#header{
+    font-size:2vw;
+    position: relative; 
+    top:25%; 
+    width:100%; 
+    left:20%;
+}
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+#abputp {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 100%;
+}
+#firstimg{
+    height: 300px; 
+    width: 30%;
+    margin-right: 5%;
+}
+#secimg{
+    height: 300px; 
+    width: 400px;
+    margin-right: 5%;
+}
+#thirdimg{
+    height: 300px; 
+    width: 35%px;
+}
+#welcomeToo {
+    background-color: grey;
+}
+.social-networks {
+    text-align: center;
+}
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+
+}
+.schedule{
+    float: right;
+    margin-right: 150px;
+    margin-top: 25px;
+}
+.signUp{
+    margin-left: 150px;
+    margin-top: 25px;
+}
+.contact{
+    text-align: center;
+    margin-top: 50px;
+}
+.aboutSignUp{
+    text-align: center;
+}
+.lp{
+    text-align: center;
+}
+@media screen and (max-width: 1450px){
+    #firstimg{
+        display: none;
+    }
+
+    #thirdimg{
+        width: 40%;
+    }
+}
+@media screen and (max-width: 950px){
+    #thirdimg{
+        display: none;
+    }
+    #firstimg{
+        display: none;
+    }
+    #secimg{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+    #header{
+        font-size: 150%; 
+      }
+    .schedule{
+        float: left;
+        margin-top: 25px;
+        margin-left: 25%;
+    }
+    .signUp{
+        margin-top: 25%;
+    }
+}
+@media screen and (max-width: 700px){
+    #header{
+        float: none;    
+        width: 100%;
+        left: 5%;
+    }
+}
