@@ -1,4 +1,4 @@
-                                                     #Yoga Website
+                                                     # Yoga Website
 
 
 ![AMI](https://user-images.githubusercontent.com/100727900/161029622-32920827-6572-44ef-aff5-722489c48c3e.PNG)
