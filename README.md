@@ -1,3 +1,6 @@
+                #Yoga website
+
+
 ![AMI](https://user-images.githubusercontent.com/100727900/161029622-32920827-6572-44ef-aff5-722489c48c3e.PNG)
 
 This webpage is for peaople ware intrested in Yoga and want to sign up for classes guided by profesinals
