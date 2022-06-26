@@ -7,7 +7,7 @@
 
     <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../css/style.css">
 
     <title>Yoga classes</title>
 </head>
@@ -28,16 +28,26 @@
         <a href="contact.html" class="menuItem">Contact</a>  
     </nav>
 
-    <div>
-        <h1 id="welcome">About us</h1>
-            <div id="abputp">
-                We're a group of folks who are dedicated to spreading the word about yoga's healing properties.<br>
-                We've seen the difference yoga can make in our own lives,<br>
-                and we believe that if people just learned to take better care of their bodies, they could save a lot of misery and sickness.<br>
-                Yoga has a lot to give; it not only makes you fit,<br>
-                but it also gradually alters your mind and body by developing greater integration and depth at all levels of our being.
-            </div> 
+    <div class="contact">
+        <div>
+            <h2>Have any questions?</h2>
+            <p>Please reach out to us<br>
+            as soon as possible</p>
+            <form>
+                <p id="fname">Enter your name: </p>
+                <input type="text" id="fname" name="fname" required>
+                <p id="lname">Surname name: </p>
+                <input type="text" id="lname" name="lname" required>
+                <p id="email">Email-address: </p>
+                <input type="email" id="email" name="email" required>
+                <br>
+                <br>
+                <textarea rows="5"></textarea>
+                <br>
+                <button type="submit">Submit</button>
+            </form>
         </div>
+    </div>
 
     <footer>
         <ul class="social-networks">
