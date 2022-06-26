@@ -30,7 +30,7 @@
 }
 #thirdimg{
     height: 300px; 
-    width: 35%px;
+    width: 35%;
 }
 #welcomeToo {
     background-color: grey;
@@ -76,7 +76,7 @@ html, body{
     https://www.youtube.com/watch?v=Gc_nAiElaPk
     */
 }
-@media screen and (max-width: 1450px){
+@media screen and (max-width: 1666px){
     #firstimg{
         display: none;
     }
